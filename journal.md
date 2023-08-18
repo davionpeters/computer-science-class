@@ -1,4 +1,2 @@
- Respository: computer-science-class
-file: journal.md
-
 # Agust 18, 2023
+The only thing i really found interesting for me is dev opps because they're like behind the scenes and every thing. They are the one's who control stuff, it's also a really cool name. You learn about the file system, packet manageres, and managing services and checking logs, ect. To be one you need to learn about a dock, git, aws, terraform, and more. That's all i got from it so I hope i can become a dev opp.
