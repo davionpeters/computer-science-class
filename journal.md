@@ -5,3 +5,4 @@ The only thing i really found interesting for me is dev opps because they're lik
 Today, i did some coding and it isn't as hard as i thought. It was pretty fum amd  interesting it's something i haven't done. 
 I'm really excited to dive more deeper into it. I was coding a [flappy bird](https://studio.code.org/flappy/6) game amd
 and i did pretty good on it, I also got to level 6.
+Today I did code hs and i just got a test done. it was a little confusing at first but im willing to learn more about coding.
