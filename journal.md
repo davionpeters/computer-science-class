@@ -6,3 +6,8 @@ Today, i did some coding and it isn't as hard as i thought. It was pretty fum am
 I'm really excited to dive more deeper into it. I was coding a [flappy bird](https://studio.code.org/flappy/6) game amd
 and i did pretty good on it, I also got to level 6.
 Today I did code hs and i just got a test done. it was a little confusing at first but im willing to learn more about coding.
+
+
+# agust 22, 2023
+I downloaded a new app called sphere edu and its really a fun app. I controlled a ball and it went really fast, it was fun ti use as well.
+I also did a couple of activites for it as well amd passed them.
