@@ -11,3 +11,8 @@ Today I did code hs and i just got a test done. it was a little confusing at fir
 # agust 22, 2023
 I downloaded a new app called sphere edu and its really a fun app. I controlled a ball and it went really fast, it was fun ti use as well.
 I also did a couple of activites for it as well amd passed them.
+
+
+
+# agust 23, 2023
+I played with that ball again snd it was fun, I also did some code hs. Everything went well and i got work done.
