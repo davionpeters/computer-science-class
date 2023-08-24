@@ -16,3 +16,7 @@ I also did a couple of activites for it as well amd passed them.
 
 # agust 23, 2023
 I played with that ball again snd it was fun, I also did some code hs. Everything went well and i got work done.
+
+
+## agust 24, 2023
+Today i did more of code hs and learned some new things. Right now im on lesson 2 and it's going good. 
