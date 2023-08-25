@@ -24,3 +24,5 @@ Today i did more of code hs and learned some new things. Right now im on lesson 
 
 # agust 25, 2023
 I did some more code hs but im stuck on this one lesson because it's confusing. I'll find a way to pass it and complete it.
+## agust 25, 2023
+I completed another code hs assignment.
