@@ -20,3 +20,7 @@ I played with that ball again snd it was fun, I also did some code hs. Everythin
 
 ## agust 24, 2023
 Today i did more of code hs and learned some new things. Right now im on lesson 2 and it's going good. 
+
+
+# agust 25, 2023
+I did some more code hs but im stuck on this one lesson because it's confusing. I'll find a way to pass it and complete it.
