@@ -27,5 +27,5 @@ I did some more code hs but im stuck on this one lesson because it's confusing. 
 ## agust 25, 2023
 I completed another code hs assignment.
 
-
+## Agust 29, 2023
  Today, I played with the ball and got some of the activites done
