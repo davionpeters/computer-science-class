@@ -29,3 +29,8 @@ I completed another code hs assignment.
 
 ## Agust 29, 2023
  Today, I played with the ball and got some of the activites done
+
+
+
+ # agust 30, 2023
+ I just did some activites for the sphere.
