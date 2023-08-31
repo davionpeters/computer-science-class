@@ -34,3 +34,8 @@ I completed another code hs assignment.
 
  # agust 30, 2023
  I just did some activites for the sphere.
+
+
+
+ # agust 31, 2023
+ I did somme code hs today
