@@ -46,3 +46,5 @@ I did some more code hs today
 
 #sept 6
 I did some code hs today and got done with 3 lessons.
+## sept 6
+I played some of that code game
