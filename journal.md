@@ -1,4 +1,4 @@
-# Agust 18, 2023
+   # Agust 18, 2023
 The only thing i really found interesting for me is dev opps because they're like behind the scenes and every thing. They are the one's who control stuff, it's also a really cool name. You learn about the file system, packet manageres, and managing services and checking logs, ect. To be one you need to learn about a dock, git, aws, terraform, and more. That's all i got from it so I hope i can become a dev opp.
 
 # agust 21, 2023
@@ -41,3 +41,8 @@ I completed another code hs assignment.
  I did somme code hs today
 ## agust 31, 2023
 I did some more code hs today
+
+
+
+#sept 6
+I did some code hs today and got done with 3 lessons.
