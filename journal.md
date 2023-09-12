@@ -48,3 +48,8 @@ I did some more code hs today
 I did some code hs today and got done with 3 lessons.
 ## sept 6
 I played some of that code game
+
+
+
+##sept 12, 2023
+i did some code hs with karel and I made a stack of balls with him
