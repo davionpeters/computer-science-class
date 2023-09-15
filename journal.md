@@ -53,3 +53,7 @@ I played some of that code game
 
 ##sept 12, 2023
 i did some code hs with karel and I made a stack of balls with him
+
+
+#Sept 15, 2023
+Today, I did code hs and karel stacked balls and did a spin.
