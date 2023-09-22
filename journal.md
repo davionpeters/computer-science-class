@@ -57,3 +57,8 @@ i did some code hs with karel and I made a stack of balls with him
 
 #Sept 15, 2023
 Today, I did code hs and karel stacked balls and did a spin.
+
+
+
+##sept 22,2023
+I did some code hs and completed an assignment
