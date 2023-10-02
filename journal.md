@@ -62,3 +62,8 @@ Today, I did code hs and karel stacked balls and did a spin.
 
 ##sept 22,2023
 I did some code hs and completed an assignment
+
+
+
+# oct 2,2023
+I went to a university to learn about animation and model design
