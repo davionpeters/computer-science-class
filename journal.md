@@ -71,4 +71,4 @@ I went to a university to learn about animation and model design
 
 
 # oct 16, 2023
-i did some code Hs amd played with carel
+i did some code Hs amd played with carel. 
