@@ -74,3 +74,7 @@ I went to a university to learn about animation and model design
 i did some code Hs amd played with carel. 
 ## oct 16,2023
 I played some code combat and got 3 assignments done
+
+
+#oct 27,2023
+I did some code combat
