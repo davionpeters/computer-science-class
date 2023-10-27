@@ -78,3 +78,5 @@ I played some code combat and got 3 assignments done
 
 #oct 27,2023
 I did some code combat
+##oct 27, 2023
+I plsyed more code combat and defeated treg and krank
