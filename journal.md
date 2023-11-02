@@ -84,3 +84,5 @@ I plsyed more code combat and defeated treg and krank
 
 #nov 2,2023
 I played some code combat and got two levels done
+##
+played some more code combat
