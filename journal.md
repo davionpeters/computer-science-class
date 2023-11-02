@@ -80,3 +80,7 @@ I played some code combat and got 3 assignments done
 I did some code combat
 ##oct 27, 2023
 I plsyed more code combat and defeated treg and krank
+
+
+#nov 2,2023
+I played some code combat and got two levels done
