@@ -86,3 +86,8 @@ I plsyed more code combat and defeated treg and krank
 I played some code combat and got two levels done
 ##
 played some more code combat
+
+
+
+#nov 13,23
+I played some more code combat
