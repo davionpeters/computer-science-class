@@ -91,3 +91,7 @@ played some more code combat
 
 #nov 13,23
 I played some more code combat
+
+
+#nov 30,23
+I played code combat and got two levels done
