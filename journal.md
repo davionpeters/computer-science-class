@@ -95,3 +95,5 @@ I played some more code combat
 
 #nov 30,23
 I played code combat and got two levels done
+##dec 1,23 
+I played code combat amd got a couple levels done
