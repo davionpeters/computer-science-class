@@ -103,3 +103,7 @@ I played code combat amd got a couple levels done
 #dec 13,23
 today I played some code combat
 ## I have played some more code combat
+
+
+#Jan 12,24
+today i played with kaggle and got him moving around
