@@ -107,3 +107,7 @@ today I played some code combat
 
 #Jan 12,24
 today i played with kaggle and got him moving around
+
+
+jan 18,24
+I did a little bit of code.org
