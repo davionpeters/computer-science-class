@@ -111,3 +111,7 @@ today i played with kaggle and got him moving around
 
 jan 18,24
 I did a little bit of code.org
+
+
+jan 25,24
+I played code combat and got to more levels
