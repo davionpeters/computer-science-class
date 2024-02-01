@@ -115,3 +115,7 @@ I did a little bit of code.org
 
 jan 25,24
 I played code combat and got to more levels
+
+
+feb 1, 24
+I played code combat
