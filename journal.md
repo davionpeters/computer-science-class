@@ -119,3 +119,7 @@ I played code combat and got to more levels
 
 feb 1, 24
 I played code combat
+
+
+#feb 15,24
+I am almost done with all of code combat and got two levels done.
